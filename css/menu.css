@@ -1,0 +1,25 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+    padding: 10px;
+    align-items: center;
+    border: 20px solid orange;
+}
+
+.logo {
+    display: inherit;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 50px;
+    font-size: 30px;
+    font-weight: 550;
+}
+
+.imagen-logo {
+    height: 50px;
+    margin: auto;
+}

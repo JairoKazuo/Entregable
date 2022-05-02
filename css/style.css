@@ -1,0 +1,90 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(23, 13, 70);
+    color: #fff;
+    margin: 0px;
+    font-size: 20px;
+}
+
+h2{
+    padding-left: 5px;
+    font-size: 40px;
+}
+
+.sub1{
+    background-color: blue;
+    width: 150px;
+    margin: 10px;
+    box-shadow: 5px 5px 10px;
+}
+
+.t-saga{
+    font-size: 25px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.s-saiyan{
+    background-color: bisque;
+    color: black;
+    margin: 20px auto 20px auto;
+    padding: 0 20px 20px 20px;
+    height: 1000px;
+    width: 650px;
+    border-radius: 50px 0px 0px 50px;
+    -webkit-border-radius:50px 0px 0px 50px;
+    -moz-border-radius:50px 0px 0px 50px;
+    -ms-border-radius:50px 0px 0px 50px;
+    -o-border-radius:50px 0px 0px 50px;
+    overflow: auto;
+}
+
+.s-frezer {
+    background-color: bisque;
+    color: black;
+    margin: 20px auto 20px auto;
+    padding: 0 20px 20px 20px;
+    height: 1000px;
+    width: 650px;
+    border-radius: 50px 0px 0px 50px;
+    -webkit-border-radius: 50px 0px 0px 50px;
+    -moz-border-radius: 50px 0px 0px 50px;
+    -ms-border-radius: 50px 0px 0px 50px;
+    -o-border-radius: 50px 0px 0px 50px;
+    overflow: auto;
+}
+
+.s-androides {
+    background-color: bisque;
+    color: black;
+    margin: 20px auto 20px auto;
+    padding: 0 20px 20px 20px;
+    height: 1000px;
+    width: 650px;
+    border-radius: 50px 0px 0px 50px;
+    -webkit-border-radius: 50px 0px 0px 50px;
+    -moz-border-radius: 50px 0px 0px 50px;
+    -ms-border-radius: 50px 0px 0px 50px;
+    -o-border-radius: 50px 0px 0px 50px;
+    overflow: auto;
+}
+
+.img{
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+fieldset{
+    text-align: center;
+}
+
+
+a{
+    color: inherit;
+    text-decoration: none;
+}
